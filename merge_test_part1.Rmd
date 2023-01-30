@@ -11,6 +11,6 @@ library(tidyverse)
 ```
 
 ```{r}
-### code goes here
+diamonds %>% filter(price > 1000) %>% summary()
 ```
 
