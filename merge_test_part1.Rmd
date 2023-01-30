@@ -11,6 +11,9 @@ library(tidyverse)
 ```
 
 ```{r}
+### filter the diamonds, etc
+diamonds %>% filter(price > 1000) %>% summary()
+
 ggplot(diamonds %>%
          filter(carat > 1 & carat < 2), 
        aes(x = carat, y = price)) + ### Casey did this!
