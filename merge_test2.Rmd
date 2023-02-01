@@ -12,7 +12,8 @@ library(tidyverse)
 ```
 
 ```{r team member 1}
-
+ggplot(starwars, aes(x = mass, y = height)) +
+  geom_point(aes(color = species, shape = sex))
 ```
 
 ```{r team member 2}
