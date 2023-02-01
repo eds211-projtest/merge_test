@@ -23,7 +23,7 @@ here's some new stuff!
 ### data viz
 
 ```{r team member 3}
-
+hey what's going on here?
 ```
 
 ### Second data analysis
