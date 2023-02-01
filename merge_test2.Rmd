@@ -17,7 +17,7 @@ ggplot(starwars, aes(x = mass, y = height)) +
 ```
 
 ```{r team member 2}
-
+here's some new stuff!
 ```
 
 ### data viz
