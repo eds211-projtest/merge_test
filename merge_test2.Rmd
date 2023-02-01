@@ -23,6 +23,8 @@ here's some new stuff!
 ### data viz
 
 ```{r team member 3}
+more new stuff from team member 3
+### merged both ideas
 hey what's going on here?
 ```
 
