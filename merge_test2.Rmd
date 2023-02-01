@@ -1,0 +1,36 @@
+---
+title: "Merge test 2"
+author: "Casey O'Hara"
+date: "2023-02-01"
+output: html_document
+---
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+```
+
+```{r team member 1}
+
+```
+
+```{r team member 2}
+
+```
+
+### data viz
+
+```{r team member 3}
+
+```
+
+### Second data analysis
+
+```{r team member 4}
+
+```
+
+
+
+
